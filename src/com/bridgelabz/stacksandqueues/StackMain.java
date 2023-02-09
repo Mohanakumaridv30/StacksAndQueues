@@ -16,3 +16,4 @@ public class StackMain <T> {
         crateStack.emptyStack();
     }
 }
+
