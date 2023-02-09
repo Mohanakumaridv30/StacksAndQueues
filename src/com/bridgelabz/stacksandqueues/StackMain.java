@@ -10,5 +10,9 @@ public class StackMain <T> {
         crateStack.push(56);
         System.out.println("show data according lifo rule stack");
         crateStack.displayStack();
+        System.out.println("Peak in a Stack");
+        crateStack.peek();
+        System.out.println("Pop the Elements in stack");
+        crateStack.emptyStack();
     }
 }
