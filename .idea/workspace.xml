@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d014dd3c-557d-4199-bd49-4d6b2bbd6c89" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/stacksandqueues/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/stacksandqueues/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/stacksandqueues/StackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/stacksandqueues/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/stacksandqueues/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/stacksandqueues/QueueMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
